@@ -1,7 +1,25 @@
-# Initial Demo
+# <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="nextjs"/> Initial Demo
 
-El primero de los proyectos creados con [**Next.js**](https://nextjs.org/), creado con: [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+El primero de los proyectos creados con [**Next.js**](https://nextjs.org/), creado con: [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), del curso de **Udemy** de **Fernando Herrera**.
 
+UN ejercicio chico, con 4 páginas, un navbar y Layouts
+
+Se ve así:
+
+![image](https://github.com/eugenia1984/nextjs/assets/72580574/fc6389d6-40e4-45a8-bf88-4799c32fc7bc)
+
+---
+
+## Technologies 🛠️
+
+- <img width="28" height="28" src="https://img.icons8.com/color/28/nextjs.png" alt="nextjs"/> [**Nextjs**](https://nextjs.org/)
+
+---
+
+
+## Notas
+
+I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
 
 ---
 ---
