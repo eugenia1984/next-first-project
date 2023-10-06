@@ -2,7 +2,7 @@
 
 El primero de los proyectos creados con [**Next.js**](https://nextjs.org/), creado con: [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), del curso de **Udemy** de **Fernando Herrera**.
 
-UN ejercicio chico, con 4 páginas, un navbar y Layouts
+Un ejercicio chico, con 4 páginas, un navbar y Layouts
 
 Se ve así:
 
@@ -14,6 +14,9 @@ Se ve así:
 
 - <img width="28" height="28" src="https://img.icons8.com/color/28/nextjs.png" alt="nextjs"/> [**Nextjs**](https://nextjs.org/)
 
+- <img width="28" height="28" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="typescript icon"/> **TypeScript**
+
+- <img width="28" height="28" src="https://img.icons8.com/office/28/react.png" alt="react icon"/> **React**
 ---
 
 
