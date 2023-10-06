@@ -29,7 +29,7 @@ I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia
 
 ### Getting Started
 
-First, run the development server:
+First get inside the folder `01-initial-demo`, then run the development server:
 
 ```bash
 npm run dev
